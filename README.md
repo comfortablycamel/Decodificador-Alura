@@ -1,3 +1,4 @@
 # Decodificador-Alura
 Praticando lógica de programação: Challenge Decodificador de Texto
-![image](https://github.com/comfortablycamel/Decodificador-Alura/assets/174260284/066bc650-1305-4efb-9874-3dd03d56c65d)
+![image](https://github.com/comfortablycamel/Decodificador-Alura/assets/174260284/e1acb5f3-8e13-44a1-9caf-c4bfc7205e61)
+
